@@ -1,4 +1,5 @@
 # flutter_login_ui_assignment
+<<<<<<< HEAD
 
 A new Flutter project.
 
@@ -14,3 +15,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+Flutter application demonstrating login UI design.
+>>>>>>> 29eb87c6bb8f613bd401db134338d021e17fb093
